@@ -1,0 +1,1 @@
+..\..\..\..\libresxl *.PNG LOGOS.RES
