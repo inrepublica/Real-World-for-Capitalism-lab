@@ -1,0 +1,11 @@
+[MOD]
+
+Title=Real World
+
+Description=This is a small mod for Capitalism lab to add more realism.
+Real managers
+Real compagnies
+Logo for managers
+Logo for compagnies
+
+Author=Clark17
