@@ -11,3 +11,5 @@ Features:
 
 Usage:
 - Run build.bat to generate CAPMOD.RES
+- Rename CAPMOD.RES to RealWorld.RES
+- Copy RealWorld.RES and RealWorld.txt to CapitalismLab\MOD
