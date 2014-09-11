@@ -8,3 +8,6 @@ Features:
 - Changing compagnies name by real compagnies ( 100 compagnies of all sectors)
 - Add logos for real compagnies
 - Add photos for real managers
+
+Usage:
+- Run build.bat to generate CAPMOD.RES
