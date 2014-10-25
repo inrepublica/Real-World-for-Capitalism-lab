@@ -1,10 +1,8 @@
-
-Are you using any anti-virus software that runs in background? 
-
-If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions 
-
-
-Run PACKALL.BAT to pack all files in all subfolders under the current MOD Kit folder into a MOD file. This will take a longer time to run but will ensure every MOD file that you have updated will be packed into the new MOD resource file. 
-
-Run PACK.BAT to pack files under the current MOD Kit folder into a MOD file. If you update files in other subfolders (e.g. IMAGES\PERSONS folder), you should run the PACK.BAT in those folders to pack the respective files. 
-
+This is a simple mod for Capitalism Lab to add more realism.
+Features:
+- Changing managers name by real manager (17 womans + 70 mens)
+- Changing compagnies name by real compagnies ( 100 compagnies of all sectors)
+- Add logos for real compagnies
+- Add photos for real managers
+- Add new products
+- Add new cities
