@@ -23,5 +23,7 @@ Images\Logos\Small\10\LOGOS.RES
 Images\Logos\Small\11\LOGOS.RES
 Images\Persons\PERSONS.RES
 Images\Products\PRODUCTS.RES
+Images\JOBS\JOBS.RES
+Images\JOBS\FARM\JOBSFARM.RES
 
 
