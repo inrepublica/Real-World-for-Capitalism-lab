@@ -50,5 +50,11 @@ call PACK.BAT
 cd ..\products
 call PACK.BAT
 
+cd ..\jobs\farm
+call PACK.BAT
+
+cd ..
+call PACK.BAT
+
 cd ..\..
 LibResDir FileList.txt CAPMOD.RES
