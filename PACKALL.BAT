@@ -50,6 +50,9 @@ call PACK.BAT
 cd ..\products
 call PACK.BAT
 
+cd ..\natural_resources
+call PACK.BAT
+
 cd ..\jobs\farm
 call PACK.BAT
 

@@ -25,5 +25,6 @@ Images\Persons\PERSONS.RES
 Images\Products\PRODUCTS.RES
 Images\JOBS\JOBS.RES
 Images\JOBS\FARM\JOBSFARM.RES
+Images\Natural_Resources\Natural_Resources.SPR
 
 

@@ -1,0 +1,1 @@
+..\..\MakeSprite FILELIST.TXT Natural_Resources.SPR
